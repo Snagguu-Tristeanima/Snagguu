@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## 欢迎来到Snagguu官网
 
-You can use the [editor on GitHub](https://github.com/Snagguu-Tristeanima/Snagguu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+我们的小卖部[点击进入](https://Snagguu.maikama.cn/) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+欢迎加入我们 QQ群:794964127
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Snagguu是什么？
+Snagguu是我的世界的一个技术交流群
+专为我的世界而生
+本群提供我的世界的外挂配置
+以便您的更好游戏体验
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
